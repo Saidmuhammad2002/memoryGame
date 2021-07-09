@@ -12,3 +12,6 @@ img {
     width: calc(100vw/4);
     height:calc(100%/3);
 }
+.copy {
+    float: right;
+}
